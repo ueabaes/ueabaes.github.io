@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+![Image]()
 
-You can use the [editor on GitHub](https://github.com/ueabaes/ueabaes.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# University of East Anglia Brain And Eye Study (UEA BAES)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Please note that this is an invitation only study with no open recruitment. Participants will be contacted via email regarding their participation in the study.**
 
-### Markdown
+UEA BAES is a new study that looks at the relationship between Alzheimer’s disease, genetics, and the eye, with the goal of identifying early biomarkers that may determine Alzheimer’s disease risk.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The health of the eye is increasingly understood to reflect the health of the brain. By using the eye as a window to the brain, we may be able to avoid using complex and expensive brain imaging techniques, and instead use equipment that is now available in most high street opticians.
 
-```markdown
-Syntax highlighted code block
+As society ages, Alzheimer’s disease and dementia are becoming increasing prevalent. Identifying those at risk earlier may allow us to intervene at a stage in the disease where a treatment would be most effective.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Am I eligable to take part in the study?
 
-1. Numbered
-2. List
+Inclusion criteria:
+- Known ApoE genotype determined in previous study.
+- 45-75 years old.
+- Fluent English speaker (including non-native speakers).
 
-**Bold** and _Italic_ and `Code` text
+Exclusion criteria:
+- History of visual impairment of eye disease.
+- History of neurodegenerative disorder.
+- History of cardiovascular disease.
+- History of vascular disease or sickle cell anaemia.
+- History of Diabetes.
+- History of photosensitive epilepsy or seizures.
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## UEA BAES Information & Documentation
 
-### Jekyll Themes
+### Travelling to your study appointment
+We ask the you **do not drive yourself** to yourself to your appointment. We will be using dilating drops that can blur your vision for up to six hours, during which it is unsafe to drive. [Information on travelling to UEA can be found here.](https://www.uea.ac.uk/about/information-for-visitors/travel-and-transport)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ueabaes/ueabaes.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Participant Information Sheet
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
