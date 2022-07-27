@@ -36,7 +36,7 @@ We ask the you **do not drive yourself** to yourself to your appointment. We wil
 
 ### [Participant Information Sheet](https://github.com/ueabaes/ueabaes.github.io/blob/1c021a8a5043e63e93f9630955f13d68f4a71fc4/docs/Appendix%2016%20-%20Tropicamide%20Information%20for%20Participants%20-%20Google%20Docs.pdf)
 
-### [Tropicamide Information Sheet](https://github.com/ueabaes/ueabaes.github.io/blob/1c021a8a5043e63e93f9630955f13d68f4a71fc4/docs/Appendix%205%20-%20Participant%20Information%20Sheet%20-%20Google%20Docs.pdf)
+### [Eye Drop (Tropicamide) Information Sheet](https://github.com/ueabaes/ueabaes.github.io/blob/1c021a8a5043e63e93f9630955f13d68f4a71fc4/docs/Appendix%205%20-%20Participant%20Information%20Sheet%20-%20Google%20Docs.pdf)
 
 
 
