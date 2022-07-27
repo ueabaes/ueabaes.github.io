@@ -31,6 +31,9 @@ As society ages, Alzheimer’s disease and dementia are becoming increasing prev
 
 ## UEA BAES Information & Documentation
 
+### Contacting us
+If you have any equiries you may contact the study team at uea.baes@uea.ac.uk.
+
 ### Travelling to your study appointment
 We ask the you **do not drive yourself** to yourself to your appointment. We will be using dilating drops that can blur your vision for up to six hours, during which it is unsafe to drive. [Information on travelling to UEA can be found here.](https://www.uea.ac.uk/about/information-for-visitors/travel-and-transport)
 
@@ -39,4 +42,15 @@ We ask the you **do not drive yourself** to yourself to your appointment. We wil
 ### [Eye Drop (Tropicamide) Information Sheet](https://github.com/ueabaes/ueabaes.github.io/blob/1c021a8a5043e63e93f9630955f13d68f4a71fc4/docs/Appendix%205%20-%20Participant%20Information%20Sheet%20-%20Google%20Docs.pdf)
 
 
+## Study Team
+
+**Principal Investigator:**  
+[Saber Sami](https://research-portal.uea.ac.uk/en/persons/saber-sami), Norwich Medical School
+
+**Study Investigator:**       
+[Thomas Carr](https://research-portal.uea.ac.uk/en/persons/thomas-carr), Norwich Medical School | School of Pharmacy
+
+[Julie Sanderson](https://research-portal.uea.ac.uk/en/persons/julie-sanderson), School of Pharmacy  
+[David Broadway](https://research-portal.uea.ac.uk/en/persons/david-broadway), School of Pharmacy | Norfolk & Norwich University Hospital  
+[Colin Jones](https://www.nnuh.nhs.uk/people/colin-jones/), Norfolk & Norwich University Hospital  
 
