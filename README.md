@@ -56,4 +56,4 @@ We ask the you **do not drive yourself** to yourself to your appointment. We wil
 
 ## Other Information
 
-The research presented in this study is carried out on the [High Performance Computing Cluster](https://www.uea.ac.uk/groups-and-centres/research-and-specialist-computing/high-performance-computing) supported by the Research and Specialist Computing Support service at the University of East Anglia.
+The data collected in this study is processed on the [High Performance Computing Cluster](https://www.uea.ac.uk/groups-and-centres/research-and-specialist-computing/high-performance-computing) supported by the Research and Specialist Computing Support service at the University of East Anglia.
