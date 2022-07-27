@@ -13,12 +13,12 @@ As society ages, Alzheimer’s disease and dementia are becoming increasing prev
 
 ## Am I eligable to take part in the study?
 
-Inclusion criteria:
+**Inclusion criteria:**
 - Known ApoE genotype determined in previous study.
 - 45-75 years old.
 - Fluent English speaker (including non-native speakers).
 
-Exclusion criteria:
+**Exclusion criteria:**
 - History of visual impairment of eye disease.
 - History of neurodegenerative disorder.
 - History of cardiovascular disease.
