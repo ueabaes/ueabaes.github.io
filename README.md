@@ -32,11 +32,9 @@ As society ages, Alzheimer’s disease and dementia are becoming increasing prev
 ### Travelling to your study appointment
 We ask the you **do not drive yourself** to yourself to your appointment. We will be using dilating drops that can blur your vision for up to six hours, during which it is unsafe to drive. [Information on travelling to UEA can be found here.](https://www.uea.ac.uk/about/information-for-visitors/travel-and-transport)
 
-### Participant Information Sheet
-[Participant Information Sheet](/docs/Appendix 5 - Participant Information Sheet - Google Docs)
+### [Participant Information Sheet](https://github.com/ueabaes/ueabaes.github.io/blob/1c021a8a5043e63e93f9630955f13d68f4a71fc4/docs/Appendix%2016%20-%20Tropicamide%20Information%20for%20Participants%20-%20Google%20Docs.pdf)
 
-### Tropicamide Information Sheet
-[Tropicamide Information for Participants](/docs/Appendix 16 - Tropicamide Information for Participants - Google Docs)
+### [Tropicamide Information Sheet](https://github.com/ueabaes/ueabaes.github.io/blob/1c021a8a5043e63e93f9630955f13d68f4a71fc4/docs/Appendix%205%20-%20Participant%20Information%20Sheet%20-%20Google%20Docs.pdf)
 
 
 
