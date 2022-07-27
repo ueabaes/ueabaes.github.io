@@ -1,4 +1,6 @@
-![Image](/images/Human_Brain_sketch_with_eyes_and_cerebrellum.svg)
+<p align="center">
+  <img src="/images/Human_Brain_sketch_with_eyes_and_cerebrellum.svg" />
+</p>
 
 # University of East Anglia Brain And Eye Study (UEA BAES)
 
