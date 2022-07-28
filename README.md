@@ -28,6 +28,14 @@ As society ages, Alzheimer’s disease and dementia are becoming increasing prev
 - History of Diabetes.
 - History of photosensitive epilepsy or seizures.
 
+## What does taking part actually require?  
+This is an observational study, so we won't be administering any trial drugs or treatments. Instead we will be recording specific aspects of your health.
+
+In this study we are taking recordings in several ways:
+- An EEG, measuring your brainwave response.This will be taken whilst resting, looking at a flashing light source, and performing a reaction test.
+- Two cognitive questionnaires, one called ACE-II, the another called RUDAS. Both of which are used in clinical settings to screen for dementia.
+- An OCT scan and pictures of your eyes. This also includes flashing lights.
+- We will also ask your some questions about your health history.
 
 ## UEA BAES Information & Documentation
 
@@ -37,9 +45,9 @@ If you have any equiries you may contact the study team at uea.baes@uea.ac.uk.
 ### Travelling to your study appointment
 We ask the you **do not drive yourself** to yourself to your appointment. We will be using dilating drops that can blur your vision for up to six hours, during which it is unsafe to drive. [Information on travelling to UEA can be found here.](https://www.uea.ac.uk/about/information-for-visitors/travel-and-transport)
 
-### [Participant Information Sheet](https://github.com/ueabaes/ueabaes.github.io/blob/1c021a8a5043e63e93f9630955f13d68f4a71fc4/docs/Appendix%2016%20-%20Tropicamide%20Information%20for%20Participants%20-%20Google%20Docs.pdf)
+### [Participant Information Sheet](https://github.com/ueabaes/ueabaes.github.io/blob/1c021a8a5043e63e93f9630955f13d68f4a71fc4/docs/Appendix%205%20-%20Participant%20Information%20Sheet%20-%20Google%20Docs.pdf)  
 
-### [Eye Drop (Tropicamide) Information Sheet](https://github.com/ueabaes/ueabaes.github.io/blob/1c021a8a5043e63e93f9630955f13d68f4a71fc4/docs/Appendix%205%20-%20Participant%20Information%20Sheet%20-%20Google%20Docs.pdf)
+### [Eye Drop (Tropicamide) Information Sheet](https://github.com/ueabaes/ueabaes.github.io/blob/1c021a8a5043e63e93f9630955f13d68f4a71fc4/docs/Appendix%2016%20-%20Tropicamide%20Information%20for%20Participants%20-%20Google%20Docs.pdf)  
 
 
 ## Study Team
