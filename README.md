@@ -37,7 +37,7 @@ In this study we are taking recordings in several ways:
 - An OCT scan and pictures of your eyes. This also includes flashing lights.
 - We will also ask your some questions about your health history.
 
-You can find further information in your Participant Information Sheet linked below.
+**You can find further information in the Participant Information Sheet linked below.**
 
 ## UEA BAES Information & Documentation
 
