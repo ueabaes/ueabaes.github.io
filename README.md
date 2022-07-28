@@ -28,7 +28,7 @@ As society ages, Alzheimer’s disease and dementia are becoming increasing prev
 - History of Diabetes.
 - History of photosensitive epilepsy or seizures.
 
-## What does taking part actually require?  
+## What is involved in taking part?
 This is an observational study, so we won't be administering any trial drugs or treatments. Instead we will be recording specific aspects of your health.
 
 In this study we are taking recordings in several ways:
@@ -36,6 +36,8 @@ In this study we are taking recordings in several ways:
 - Two cognitive questionnaires, one called ACE-II, the another called RUDAS. Both of which are used in clinical settings to screen for dementia.
 - An OCT scan and pictures of your eyes. This also includes flashing lights.
 - We will also ask your some questions about your health history.
+
+You can find further information in your Participant Information Sheet linked below.
 
 ## UEA BAES Information & Documentation
 
