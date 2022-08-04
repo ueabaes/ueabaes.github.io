@@ -21,7 +21,7 @@ As society ages, Alzheimer’s disease and dementia are becoming increasing prev
 - Fluent English speaker (including non-native speakers).
 
 **Exclusion criteria:**
-- History of visual impairment of eye disease.
+- History of severe visual impairment.
 - History of neurodegenerative disorder.
 - History of cardiovascular disease.
 - History of vascular disease or sickle cell anaemia.
@@ -57,7 +57,7 @@ We ask the you **do not drive yourself** to yourself to your appointment. We wil
 **Principal Investigator:**  
 [Saber Sami](https://research-portal.uea.ac.uk/en/persons/saber-sami), Norwich Medical School
 
-**Study Investigator:**       
+**Study Investigator & Coordinator:**       
 [Thomas Carr](https://research-portal.uea.ac.uk/en/persons/thomas-carr), Norwich Medical School | School of Pharmacy
 
 [Julie Sanderson](https://research-portal.uea.ac.uk/en/persons/julie-sanderson), School of Pharmacy  
