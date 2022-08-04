@@ -17,7 +17,7 @@ As society ages, Alzheimer’s disease and dementia are becoming increasing prev
 
 **Inclusion criteria:**
 - Known ApoE genotype determined in previous study.
-- 45-75 years old.
+- 45-80 years old.
 - Fluent English speaker (including non-native speakers).
 
 **Exclusion criteria:**
