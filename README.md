@@ -21,12 +21,13 @@ As society ages, Alzheimer’s disease and dementia are becoming increasing prev
 - Fluent English speaker (including non-native speakers).
 
 **Exclusion criteria:**
-- History of severe visual impairment.
 - History of neurodegenerative disorder.
 - History of cardiovascular disease.
 - History of vascular disease or sickle cell anaemia.
 - History of Diabetes.
 - History of photosensitive epilepsy or seizures.
+
+If you have a history of severe visual impairment, please contact us.
 
 ## What is involved in taking part?
 This is an observational study, so we won't be administering any trial drugs or treatments. Instead we will be recording specific aspects of your health.
