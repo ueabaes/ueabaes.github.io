@@ -63,7 +63,3 @@ We ask the you **do not drive yourself** to yourself to your appointment. We wil
 [Julie Sanderson](https://research-portal.uea.ac.uk/en/persons/julie-sanderson), School of Pharmacy  
 [David Broadway](https://research-portal.uea.ac.uk/en/persons/david-broadway), School of Pharmacy | Norfolk & Norwich University Hospital  
 [Colin Jones](https://www.nnuh.nhs.uk/people/colin-jones/), Norfolk & Norwich University Hospital  
-
-## Other Information
-
-The data collected in this study is processed on the [High Performance Computing Cluster](https://www.uea.ac.uk/groups-and-centres/research-and-specialist-computing/high-performance-computing) supported by the Research and Specialist Computing Support service at the University of East Anglia.
