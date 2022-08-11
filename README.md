@@ -30,7 +30,7 @@ As society ages, Alzheimer’s disease and dementia are becoming increasing prev
 If you have a history of severe visual impairment, please contact us.
 
 ## What is involved in taking part?
-This is an observational study, so we won't be administering any trial drugs or treatments. Instead we will be recording specific aspects of your health.
+This is an observational study, so we won't be administering any trial drugs or treatments. Instead we will be recording specific aspects of your health. We do all of this in a single session at the Norwich Medical School based at UEA.
 
 In this study we are taking recordings in several ways:
 - An EEG, measuring your brainwave response.This will be taken whilst resting, looking at a flashing light source, and performing a reaction test.
